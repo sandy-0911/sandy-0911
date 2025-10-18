@@ -49,19 +49,11 @@
 
 ---
 
-### 🏆 Achievements & Milestones
-
-- Solved 500+ DSA problems on LeetCode, GeeksforGeeks, Coding Ninjas[file:4].
-- Intern @ Web Stack Academy, Bangalore (Full Stack Development)[file:4].
-- Represented NITJ Basketball Club[file:4].
-- 1st Rank in CBSE 10 & 12 • Qualified JEE Mains & Advanced[file:4].
-
----
 
 ### 📊 GitHub Stats
 
-![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=stars,issues&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandy-0911&show_icons=true&hide=stars,issues&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-0911&layout=compact)
 
 ---
 
