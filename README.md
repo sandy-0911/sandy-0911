@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I am SANDEEP 👋
 
-<!--
-**sandy-0911/sandy-0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering student at NIT Jalandhar.  
+💻 Passionate about Full Stack and AI integration.  
+🚀 I love solving problems, building efficient solutions, and learning new tech every day.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandy-0911
+&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-0911
+&layout=compact&theme=radical)
+
+---
+
+### 🔗 Connect with me:
+- 📫 [Email me](mailto:sandeepapply7@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/sandeep-sahoo-a0205a373/)
+
+
