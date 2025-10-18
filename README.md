@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Sandeep 
 
-🌐 ECE Undergrad @ NIT Jalandhar | 💻 Full Stack Developer | 🏀 Basketball Enthusiast | 🚀 Always Learning
+🌐 ECE Undergrad @ NIT Jalandhar | 💻 Full Stack Developer | AI Enthusiast | 🚀 Always Learning
 
 ---
 
