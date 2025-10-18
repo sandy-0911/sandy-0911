@@ -14,7 +14,7 @@
 - 📫 Email: sandeepapply7@gmail.com
 
 ### Connect with me:
-[LinkedIn](https://linkedin.com/in/your-link) • [LeetCode](https://leetcode.com/your-profile) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://linkedin.com/in/sandeep-sahoo-a0205a373/) • [LeetCode](https://leetcode.com/Sandeep_Sahoo/) • [GitHub](https://github.com/sandy-0911)
 
 ---
 
