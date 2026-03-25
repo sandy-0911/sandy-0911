@@ -36,18 +36,6 @@
 
 ---
 
-### 🏗️ Featured Projects
-
-- **AI-Powered Query System**  
-  Retrieval-Augmented Generation (RAG) interface—context-aware answers from private docs using LLMs, with Google Gemini and LangChain.[file:4]
-
-- **AgentiCore AI**  
-  Autonomous agent interface with live file explorer, code editor, async streaming—95% code visualization accuracy, scalable front end, AI integrations.[file:4]
-
-- **VortexPlay**  
-  Full-stack video streaming platform—4K delivery, fast upload, FFmpeg compression, responsive React frontend, 40% faster load.[file:4]
-
----
 
 
 ### 📊 GitHub Stats
